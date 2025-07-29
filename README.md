@@ -72,14 +72,3 @@ paper_dissolved_oxygen_kosovo_open/
    ```
 
 ---
-
-## 📊 Example Output
-
-<p align="center">
-  <img src="figures/wq-kosovo_correlation.png" width="400"/>
-</p>
-
-Each model outputs:
-- Prediction vs. True plots
-- Evaluation metrics per run (50 seeds)
-- Serialized JSON result files for reproducibility
