@@ -29,7 +29,7 @@ paper_dissolved_oxygen_kosovo_open/
 
 ## 📈 Dataset Description
 
-- Source: [Data in Brief, 2022](https://doi.org/10.1016/j.dib.2022.108486)
+- Source: https://doi.org/10.1016/j.dib.2022.108486
 - Measurements from the Sitnica River (Kosovo)
 - Parameters: Temperature, Conductivity, pH, Dissolved Oxygen
 - 18,360 data points (filtered)
@@ -68,7 +68,7 @@ paper_dissolved_oxygen_kosovo_open/
 
 4. **Run the pipeline**:
    ```bash
-   python src/main.py
+   python regression_gasearchcv.py
    ```
 
 ---
